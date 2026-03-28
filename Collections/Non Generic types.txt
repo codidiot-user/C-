@@ -1,0 +1,10 @@
+NON GENERIC TYPES ARE AUTO RESIZING, BUT NOT TYPE SAFE (WE CAN ADD ANY TYPE OF DATATYPES INTO THE COLLECTIONS)
+SYNTAX: 
+"" ArrayList al = new ArrayList(); ""
+"" Hashtable hs=new Hashtable(); ""
+ 
+=======================================================================================================================
+
+GENERIC TYPES PROVIDE AUTO RESIZING AS WELL TYPE SAFE FEATURE ( WE CAN ABLE ADD ONLY ONE DATATYPES) 
+SYNTAX:
+"" List<T> == T ""--> Type of datatype you need to use. like, "" List<int> = new List<int>(); ""
